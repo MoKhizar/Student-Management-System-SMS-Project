@@ -1,0 +1,80 @@
+﻿  PFProject.cpp
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(88,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(105,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(201,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(211,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(212,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(286,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(287,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(339,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(340,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(393,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(394,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(455,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(456,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(463,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(464,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(469,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(475,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(479,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(480,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(532,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(533,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(541,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(542,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(549,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(550,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(553,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(709,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(710,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(741,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(742,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(745,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(746,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(774,9): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(780,9): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(786,9): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(792,9): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(819,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(820,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(907,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(947,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(948,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(952,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(981,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(983,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(984,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(988,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(989,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(991,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(1007,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(1009,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(1010,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(1014,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(1015,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(1017,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(1046,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(1048,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(1049,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(1053,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(1054,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(1056,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(1057,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(1075,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(1076,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(1078,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(1079,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(1087,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(1118,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(1119,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(1127,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(1128,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(1151,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(1152,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(1161,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(1162,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(1197,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(1198,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(1200,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\umrnd\source\repos\PFProject\PFProject\PFProject.cpp(694,1): warning C4715: 'adminlogin': not all control paths return a value
+  PFProject.vcxproj -> C:\Users\umrnd\source\repos\PFProject\x64\Debug\PFProject.exe

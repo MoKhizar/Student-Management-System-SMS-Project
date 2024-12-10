@@ -1,0 +1,17 @@
+1- NAME: Ali Ahmed USER: ali.ahmed PASS: pass123 SUBJECT: Intro to CS
+2- NAME: Sara Malik USER: sara.malik PASS: pass123 SUBJECT: Mathematics I
+3- NAME: Imran Khan USER: imran.khan PASS: pass123 SUBJECT: Mathematics II
+4- NAME: Nadia Shah USER: nadia.shah PASS: pass123 SUBJECT: Programming
+5- NAME: Ahmed Raza USER: ahmed.raza PASS: pass123 SUBJECT: Data Structures
+6- NAME: Ayesha Ali USER: ayesha.ali PASS: pass123 SUBJECT: Discrete Math
+7- NAME: Usman Tariq USER: usman.tariq PASS: pass123 SUBJECT: OOP
+8- NAME: Bilal Anwar USER: bilal.anwar PASS: pass123 SUBJECT: Digital Logic
+9- NAME: Faizan Ahmed USER: faizan.ahmed PASS: pass123 SUBJECT: Computer Architecture
+10- NAME: Hina Zafar USER: hina.zafar PASS: pass123 SUBJECT: Operating Systems
+11- NAME: Omar Farooq USER: omar.farooq PASS: pass123 SUBJECT: Database Systems
+12- NAME: Fariha Iqbal USER: fariha.iqbal PASS: pass123 SUBJECT: Software Engineering
+13- NAME: Taimur Malik USER: taimur.malik PASS: pass123 SUBJECT: Computer Networks
+14- NAME: Zainab Khan USER: zainab.khan PASS: pass123 SUBJECT: Data Communications
+15- NAME: Yasir Ali USER: yasir.ali PASS: pass123 SUBJECT: Automata Theory
+16- NAME: Mariam Nadeem USER: mariam.nadeem PASS: pass123 SUBJECT: Algorithm Design17- NAME: Cheema Saahab USER: cheeeema PASS: 12345678 SUBJECT: Mathematics II
+17- NAME: 123 USER: 123 PASS: 123 SUBJECT: Mathematics I

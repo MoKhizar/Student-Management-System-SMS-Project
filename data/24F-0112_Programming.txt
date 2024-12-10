@@ -1,0 +1,7 @@
+Total Marks: 12
+GPA: 0.000000(FAIL)
+Quizzes: 0
+Assignments: 0
+Sessional-I: 12
+Sessional-II: 0
+Finals: 0

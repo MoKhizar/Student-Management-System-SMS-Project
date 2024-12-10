@@ -1,0 +1,7 @@
+Total Marks: 45
+GPA: 1.500000(PASS)
+Quizzes: 0
+Assignments: 0
+Sessional-I: 0
+Sessional-II: 0
+Finals: 45
